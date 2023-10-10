@@ -1,0 +1,2 @@
+font-family: 'Corinthia', cursive;
+font-family: 'Varela Round', sans-serif;
